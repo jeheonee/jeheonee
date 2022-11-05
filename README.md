@@ -4,10 +4,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeheonee&show_icons=true">
 </div>
 
-<div align=center>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<div align=center; margin-top: 2rem>
+	<p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeheon12)](https://solved.ac/jeheon12)
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeheon12)](https://solved.ac/jeheon12)
 </div>
 
 
