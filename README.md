@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Hi!&fontSize=90)
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeheonee&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=jeheonee&show_icons=true">
 
 
 <!--
