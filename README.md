@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!&fontSize=90)
 
-<div>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=jeheonee&show_icons=true">
 </div>
 
-<div>
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={jeheon12})](https://solved.ac/{jeheon12})
+<div align=center>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeheon12)](https://solved.ac/jeheon12)
 </div>
 
 
